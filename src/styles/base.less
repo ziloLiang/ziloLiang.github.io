@@ -1,0 +1,33 @@
+@import './variables.less';
+@import './utils.less';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body {
+    font: 14px/1.2 'arial', 'microsoft yahei';
+}
+
+h1,
+h2,
+h3 {
+    font-size: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: @linkColor;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+p {
+    margin-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}

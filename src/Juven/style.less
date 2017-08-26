@@ -1,0 +1,95 @@
+.juven {
+    height: 100%;
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+    color: #444;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    .juven-header {
+        background: #000;
+        color: #fff;
+        font-size: 24px;
+        letter-spacing: 2px;
+        > * {
+            vertical-align: middle;
+        }
+        img {
+            height: 80px;
+        }
+    }
+    .table-tr {
+        font-size: 16px;
+        padding: 0 3%;
+        height: 40px;
+        &.table-head {
+            font-family: STXihei, Heiti;
+            > div {
+                color: #dab273!important;
+            }
+        }
+        &:nth-child(odd) {
+            background-color: #f3f3f3;
+        }
+        &:nth-child(1) {
+            .index > span {
+                background-color: #dab273;
+                color: #fff;
+            }
+        }
+        &:nth-child(2) {
+            .index > span {
+                background-color: #ddd;
+                color: #fff;
+            }
+        }
+        &:nth-child(3) {
+            .index > span {
+                background-color: #ba6e40;
+                color: #fff;
+            }
+        }
+        > div {
+            float: left;
+            height: 40px;
+            line-height: 40px;
+            text-align: center;
+        }
+        .head-wrap {
+            width: 15%;
+        }
+        .head {
+            height: 30px;
+            width: 30px;
+            vertical-align: middle;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        .user {
+            width: 40%;
+            text-align: center;
+            vertical-align: middle;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            // color: #549ef4;
+        }
+        .index {
+            width: 15%;
+            text-align: center;
+            > span {
+                display: inline-block;
+                height: 20px;
+                line-height: 20px;
+                width: 20px;
+                // background-color: #f96e75;
+                border-radius: 3px;
+                font-size: 14px;
+                color: #333;
+            }
+        }
+        .score {
+            text-align: center;
+            width: 30%;
+        }
+    }
+}
