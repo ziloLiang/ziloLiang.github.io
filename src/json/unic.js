@@ -2,9 +2,6 @@ export default {
     id: 2,
     name: 'UniC',
     scoreList: [
-        {index: 1, score: 0},
-        {index: 2, score: 0},
-        {index: 3, score: 0},
-        {index: 4, score: 0}
+        {match: '#917 萨索洛 1:3 尤文', score: 0}
     ]
 };

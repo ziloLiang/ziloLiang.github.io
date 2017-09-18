@@ -13,7 +13,7 @@ export default class ScoreList extends React.Component {
                     {this.props.list.map((item, i) => {
                         var className = +item.score === 1 ? 'green': 'red';
                         return <li className="score-td clearfix" key={'score' + i}>
-                            <span>第 {item.index} 轮：<span className={className}>{item.score}</span></span>
+                            <span>{item.match}<span className={className}> {item.score}</span></span>
                         </li>;
                     })}
                 </ul>

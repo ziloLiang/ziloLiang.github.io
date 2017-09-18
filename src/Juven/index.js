@@ -17,6 +17,20 @@ export default class Juven extends React.Component {
             if (scoreList.default[item.id]) {
                 item = Object.assign(item, scoreList.default[item.id]);
             }
+            let totel = 0 ;
+            item.scoreList.forEach((s) => {
+                totel += s.score;
+            });
+            item.score = totel;
+        });
+        data.sort(function (item1, item2) {
+            if (item1.score > item2.score) {
+                return -1;
+            }
+            else if (item1.score < item2.score) {
+                return 1;
+            }
+            return 0;
         });
     }
     render() {
@@ -24,7 +38,7 @@ export default class Juven extends React.Component {
             <div className="juven">
                 <div className="juven-header" >
                     <img src="images/juven.jpg" />
-                    <span >北京尤文赛季竞猜</span>
+                    <span >北京尤文17/18赛季竞猜统计</span>
                 </div>
                 <div className="table-tr table-head clearfix">
                     <div className="main-wrap">
