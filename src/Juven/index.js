@@ -45,7 +45,7 @@ export default class Juven extends React.Component {
                         <div className="index" >排名</div>
                         <div className="head-wrap"  ></div>
                         <div className="user" >
-                            成员
+                            场上运动员
                         </div>
                         <div className="score" >
                             赛季得分
