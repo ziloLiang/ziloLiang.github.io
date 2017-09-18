@@ -37,7 +37,10 @@ export default class Item extends React.Component {
                 </div>
                 {
                     this.state.showChildren && item.scoreList && item.scoreList.length
-                    ? <ScoreList list={item.scoreList}/> : null
+                    ? (<div className="children-wrap" >
+                        {item.desc ? <pre className="desc">{item.desc}</pre> : null}
+                        <ScoreList list={item.scoreList}/>
+                        </div>) : null
                 }
             </li>
         );
