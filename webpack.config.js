@@ -32,7 +32,7 @@ module.exports = {
                 happy: {id: 'js'}
             },
             {
-                test: /\.(jpg|png|ttf|svg|gif|woff2?)(\?.+)?$/,
+                test: /\.(jpg|jpeg|png|ttf|svg|gif|woff2?)(\?.+)?$/,
                 loader: 'url?limit=10240'
             },
             {

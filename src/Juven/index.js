@@ -37,8 +37,6 @@ export default class Juven extends React.Component {
         return (
             <div className="juven">
                 <div className="juven-header" >
-                    <img src="images/juven.jpg" />
-                    <span >北京尤文17/18赛季竞猜统计</span>
                 </div>
                 <div className="table-tr table-head clearfix">
                     <div className="main-wrap">

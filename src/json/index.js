@@ -5,6 +5,9 @@ import godlovesyou from './member/godlovesyou.js';
 import yangyang from './member/yangyang.js';
 import xiaolaodi1997 from './member/xiaolaodi1997.js';
 import xinmidiaoqihang from './member/xinmidiaoqihang.js';
+import alan35 from './member/alan35.js';
+import ice from './member/ice.js';
+import kevinTracy from './member/kevinTracy.js';
 
 var list = {
     1: dawang,
@@ -13,7 +16,10 @@ var list = {
     4: godlovesyou,
     5: yangyang,
     6: xiaolaodi1997,
-    7: xinmidiaoqihang
+    7: xinmidiaoqihang,
+    8: alan35,
+    9: ice,
+    10: kevinTracy
 };
 
 export default list;
