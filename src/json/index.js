@@ -8,6 +8,7 @@ import xinmidiaoqihang from './member/xinmidiaoqihang.js';
 import alan35 from './member/alan35.js';
 import ice from './member/ice.js';
 import kevinTracy from './member/kevinTracy.js';
+import dingtao from './member/dingtao.js';
 
 var list = {
     1: dawang,
@@ -19,7 +20,8 @@ var list = {
     7: xinmidiaoqihang,
     8: alan35,
     9: ice,
-    10: kevinTracy
+    10: kevinTracy,
+    11: dingtao
 };
 
 export default list;
