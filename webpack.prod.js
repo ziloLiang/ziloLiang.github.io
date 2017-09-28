@@ -18,7 +18,8 @@ var webpackConfig = {
     },
     output: {
         filename: '[name].bundle.js',
-        path: config.releasePath
+        path: config.releasePath,
+        publicPath: config.releasePublicPath
     },
     module: {
         loaders: [
