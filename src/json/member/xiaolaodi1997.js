@@ -1,9 +1,6 @@
 export default {
     id: 6,
     name: 'Juve1997照着点小老弟我',
-    scoreList: [
-        {match: '#917 萨索洛 1:3 尤文', score: 0},
-        {match: '#920 尤文 1:0 紫百合', score: 0},
-        {match: '#927 尤文 2:0 奥林匹亚科斯', score: 0}
-    ]
+    scoreList: [],
+    desc: '于大王17元年9月，得大王御赐获代理群主头衔，代大王理群中各项事宜，至今一月有于，尽心竭力，特此昭告天下，以示其功。'
 };

@@ -2,8 +2,7 @@ export default {
     id: 8,
     name: 'Alan35',
     scoreList: [
-        {match: '#917 萨索洛 1:3 尤文', score: 0},
-        {match: '#920 尤文 1:0 紫百合', score: 0},
-        {match: '#927 尤文 2:0 奥林匹亚科斯', score: 1}
+        {match: '#927 尤文 2:0 奥林匹亚科斯', score: 1},
+        {match: '#1029 AC米兰 2:0 尤文图斯', score: 1}
     ]
 }
