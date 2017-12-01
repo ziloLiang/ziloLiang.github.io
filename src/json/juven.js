@@ -9,5 +9,8 @@ export default [
     {id: 8, name: 'Alan35', head: 'images/alan35.jpeg'},
     {id: 9, name: 'ice', head: 'images/ice.jpg'},
     {id: 10, name: 'Kevin Tracy', head: 'images/kevinTracy.jpeg'},
-    {id: 11, name: '丁涛', head: 'images/dingtao.jpeg'}
+    {id: 11, name: '丁涛', head: 'images/dingtao.jpeg'},
+    {id: 12, name: 'Uno Generale', head: 'images/unogenerale.jpeg'},
+    {id: 13, name: '松哥', head: 'images/songge.jpeg'},
+    {id: 14, name: '小绿', head: 'images/xiaolv.jpeg'}
 ];

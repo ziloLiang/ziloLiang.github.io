@@ -9,6 +9,9 @@ import alan35 from './member/alan35.js';
 import ice from './member/ice.js';
 import kevinTracy from './member/kevinTracy.js';
 import dingtao from './member/dingtao.js';
+import unogenerale from './member/unogenerale.js';
+import songge from './member/songge.js';
+import xiaolv from './member/xiaolv.js';
 
 var list = {
     1: dawang,
@@ -21,7 +24,10 @@ var list = {
     8: alan35,
     9: ice,
     10: kevinTracy,
-    11: dingtao
+    11: dingtao,
+    12: unogenerale,
+    13: songge,
+    14: xiaolv,
 };
 
 export default list;
