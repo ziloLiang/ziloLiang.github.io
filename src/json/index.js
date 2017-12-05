@@ -12,6 +12,7 @@ import dingtao from './member/dingtao.js';
 import unogenerale from './member/unogenerale.js';
 import songge from './member/songge.js';
 import xiaolv from './member/xiaolv.js';
+import wyf from './member/wyf.js';
 
 var list = {
     1: dawang,
@@ -28,6 +29,7 @@ var list = {
     12: unogenerale,
     13: songge,
     14: xiaolv,
+    15: wyf
 };
 
 export default list;
