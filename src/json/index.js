@@ -13,6 +13,7 @@ import unogenerale from './member/unogenerale.js';
 import songge from './member/songge.js';
 import xiaolv from './member/xiaolv.js';
 import wyf from './member/wyf.js';
+import ye from './member/ye.js';
 
 var list = {
     1: dawang,
@@ -29,7 +30,8 @@ var list = {
     12: unogenerale,
     13: songge,
     14: xiaolv,
-    15: wyf
+    15: wyf,
+    16: ye
 };
 
 export default list;
