@@ -14,6 +14,7 @@ import songge from './member/songge.js';
 import xiaolv from './member/xiaolv.js';
 import wyf from './member/wyf.js';
 import ye from './member/ye.js';
+import jiangpeng from './member/jiangpeng.js';
 
 var list = {
     1: dawang,
@@ -31,7 +32,8 @@ var list = {
     13: songge,
     14: xiaolv,
     15: wyf,
-    16: ye
+    16: ye,
+    17: jiangpeng
 };
 
 export default list;
