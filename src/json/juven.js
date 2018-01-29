@@ -15,5 +15,6 @@ export default [
     {id: 14, name: '小绿', head: 'images/xiaolv.jpeg'},
     {id: 15, name: 'wyf', head: 'images/wyf.jpeg'},
     {id: 16, name: 'ye', head: 'images/ye.jpeg'},
-    {id: 17, name: '江鹏', head: 'images/jiangpeng.jpeg'}
+    {id: 17, name: '江鹏', head: 'images/jiangpeng.jpeg'},
+    {id: 18, name: 'Del', head: 'images/del.jpeg'}
 ];

@@ -15,6 +15,7 @@ import xiaolv from './member/xiaolv.js';
 import wyf from './member/wyf.js';
 import ye from './member/ye.js';
 import jiangpeng from './member/jiangpeng.js';
+import del from './member/del.js';
 
 var list = {
     1: dawang,
@@ -33,7 +34,8 @@ var list = {
     14: xiaolv,
     15: wyf,
     16: ye,
-    17: jiangpeng
+    17: jiangpeng,
+    18: del
 };
 
 export default list;
