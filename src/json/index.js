@@ -16,6 +16,13 @@ import wyf from './member/wyf.js';
 import ye from './member/ye.js';
 import jiangpeng from './member/jiangpeng.js';
 import del from './member/del.js';
+import pope from './member/pope.js';
+import dahuilang from './member/dahuilang.js';
+import jelly from './member/jelly.js';
+import jichao from './member/jichao.js';
+import luotuoxiangzi from './member/luotuoxiangzi.js';
+import niurou from './member/niurou.js';
+import kafeiyin from './member/kafeiyin.js';
 
 var list = {
     1: dawang,
@@ -35,7 +42,14 @@ var list = {
     15: wyf,
     16: ye,
     17: jiangpeng,
-    18: del
+    18: del,
+    19: pope,
+    20: dahuilang,
+    21: jelly,
+    22: jichao,
+    23: luotuoxiangzi,
+    24: niurou,
+    25: kafeiyin
 };
 
 export default list;

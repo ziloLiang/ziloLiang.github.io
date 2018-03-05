@@ -16,5 +16,12 @@ export default [
     {id: 15, name: 'wyf', head: 'images/wyf.jpeg'},
     {id: 16, name: 'ye', head: 'images/ye.jpeg'},
     {id: 17, name: '江鹏', head: 'images/jiangpeng.jpeg'},
-    {id: 18, name: 'Del', head: 'images/del.jpeg'}
+    {id: 18, name: 'Del', head: 'images/del.jpeg'},
+    {id: 19, name: 'pope', head: 'images/pope.jpeg'},
+    {id: 20, name: '大灰狼', head: 'images/dahuilang.jpeg'},
+    {id: 21, name: 'Jelly', head: 'images/jelly.jpeg'},
+    {id: 22, name: 'Jichao', head: 'images/jichao.jpeg'},
+    {id: 23, name: '骆驼祥子', head: 'images/luotuoxiangzi.jpeg'},
+    {id: 24, name: '牛肉', head: 'images/niurou.jpeg'},
+    {id: 25, name: '咖啡因boy', head: 'images/kafeiyin.jpeg'}
 ];

