@@ -23,6 +23,7 @@ import jichao from './member/jichao.js';
 import luotuoxiangzi from './member/luotuoxiangzi.js';
 import niurou from './member/niurou.js';
 import kafeiyin from './member/kafeiyin.js';
+import guozihao from './member/guozihao.js';
 
 var list = {
     1: dawang,
@@ -49,7 +50,8 @@ var list = {
     22: jichao,
     23: luotuoxiangzi,
     24: niurou,
-    25: kafeiyin
+    25: kafeiyin,
+    26: guozihao
 };
 
 export default list;

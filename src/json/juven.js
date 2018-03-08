@@ -23,5 +23,6 @@ export default [
     {id: 22, name: 'Jichao', head: 'images/jichao.jpeg'},
     {id: 23, name: '骆驼祥子', head: 'images/luotuoxiangzi.jpeg'},
     {id: 24, name: '牛肉', head: 'images/niurou.jpeg'},
-    {id: 25, name: '咖啡因boy', head: 'images/kafeiyin.jpeg'}
+    {id: 25, name: '咖啡因boy', head: 'images/kafeiyin.jpeg'},
+    {id: 26, name: '郭子豪', head: 'images/guozihao.jpeg'}
 ];
