@@ -24,6 +24,8 @@ import luotuoxiangzi from './member/luotuoxiangzi.js';
 import niurou from './member/niurou.js';
 import kafeiyin from './member/kafeiyin.js';
 import guozihao from './member/guozihao.js';
+import paolo from './member/paolo.js';
+import yuelaiyueqiang from './member/yuelaiyueqiang.js';
 
 var list = {
     1: dawang,
@@ -51,7 +53,9 @@ var list = {
     23: luotuoxiangzi,
     24: niurou,
     25: kafeiyin,
-    26: guozihao
+    26: guozihao,
+    27: paolo,
+    28: yuelaiyueqiang
 };
 
 export default list;
