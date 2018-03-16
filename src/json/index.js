@@ -26,6 +26,9 @@ import kafeiyin from './member/kafeiyin.js';
 import guozihao from './member/guozihao.js';
 import paolo from './member/paolo.js';
 import yuelaiyueqiang from './member/yuelaiyueqiang.js';
+import zhangcheng from './member/zhangcheng.js';
+import haohao from './member/haohao.js';
+import mandesk from './member/mandesk.js';
 
 var list = {
     1: dawang,
@@ -55,7 +58,10 @@ var list = {
     25: kafeiyin,
     26: guozihao,
     27: paolo,
-    28: yuelaiyueqiang
+    28: yuelaiyueqiang,
+    29: zhangcheng,
+    30: haohao,
+    31: mandesk,
 };
 
 export default list;
