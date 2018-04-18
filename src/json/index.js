@@ -30,6 +30,7 @@ import zhangcheng from './member/zhangcheng.js';
 import haohao from './member/haohao.js';
 import mandesk from './member/mandesk.js';
 import dahouzi from './member/dahouzi.js';
+import lampardhei from './member/lampardhei.js';
 
 var list = {
     1: dawang,
@@ -63,7 +64,8 @@ var list = {
     29: zhangcheng,
     30: haohao,
     31: mandesk,
-    32: dahouzi
+    32: dahouzi,
+    33: lampardhei,
 };
 
 export default list;

@@ -31,4 +31,5 @@ export default [
     {id: 30, name: '昊昊', head: 'images/haohao.jpeg'},
     {id: 31, name: 'mandesk', head: 'images/mandesk.png'},
     {id: 32, name: '🐮大猴子@@', head: 'images/dahouzi.jpeg'},
+    {id: 33, name: 'lampardhei', head: 'images/lampardhei.jpeg'},
 ];
