@@ -6,7 +6,7 @@ export default [
     {id: 5, name: '杨洋', head: 'images/yangyang.jpeg'},
     {id: 6, name: 'Juve1997大王叫我来巡山', head: 'images/1997xiaolaodi.jpeg'},
     {id: 7, name: '2018新米屌启航 Fozza Merda', head: 'images/xinmidiaoqihang.jpeg'},
-    {id: 8, name: 'Alan35', head: 'images/alan35.jpeg'},
+    {id: 8, name: 'Alan', head: 'images/alan35.jpeg'},
     {id: 9, name: 'ice', head: 'images/ice.jpg'},
     {id: 10, name: 'Kevin Tracy', head: 'images/kevinTracy.jpeg'},
     {id: 11, name: '丁涛', head: 'images/dingtao.jpeg'},
