@@ -37,6 +37,7 @@ export default class Juven extends React.Component {
         return (
             <div className="juven">
                 <div className="juven-header" >
+                    JUVENTUS
                 </div>
                 <div className="table-tr table-head clearfix">
                     <div className="main-wrap">

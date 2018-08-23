@@ -9,7 +9,20 @@
         font-size: 20px;
         height: 80px;
         letter-spacing: 1px;
-        background: url(../images/bg.png) no-repeat center top #000;
+        background: url(../images/bg.jpg) no-repeat center top #000;
+        color: transparent;
+        @media screen and (min-width: 800px) {
+            & {
+                background: url(/build/3e06055….jpg) no-repeat 80px top #000;
+                background-size: auto 80px;
+                color: #fff;
+                font-size: 40px;
+                line-height: 80px;
+                text-indent: 280px;
+                text-align: left;
+                font-family: microsoft yahei;
+            }
+        }
         background-size: cover;
         > * {
             vertical-align: middle;
