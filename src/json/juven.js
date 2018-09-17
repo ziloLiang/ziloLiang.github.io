@@ -33,4 +33,5 @@ export default [
     {id: 32, name: '🐮大猴子@@', head: 'images/dahouzi.jpeg'},
     {id: 33, name: 'lampardhei', head: 'images/lampardhei.jpeg'},
     {id: 34, name: '同乐相声', head: 'images/tonglexiangsheng.jpeg'},
+    {id: 35, name: '哲理', head: 'images/zheli.jpeg'},
 ];

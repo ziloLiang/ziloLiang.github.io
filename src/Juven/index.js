@@ -54,7 +54,9 @@ export default class Juven extends React.Component {
                 <ul>
                     {
                         data.map((item, i) => {
-                            return <Item item={item} index={i} />;
+                            if (item.scoreList && item.scoreList.length) {
+                                return <Item item={item} index={i} />;
+                            }
                         })
                     }
                 </ul>
