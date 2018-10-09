@@ -33,6 +33,8 @@ import dahouzi from './member/dahouzi.js';
 import lampardhei from './member/lampardhei.js';
 import tonglexiangsheng from './member/tonglexiangsheng.js';
 import zheli from './member/zheli.js';
+import youngbudengshi from './member/youngbudengshi.js';
+import eihwaz from './member/eihwaz.js';
 
 var list = {
     1: dawang,
@@ -70,6 +72,8 @@ var list = {
     33: lampardhei,
     34: tonglexiangsheng,
     35: zheli,
+    36: youngbudengshi,
+    37: eihwaz,
 };
 
 export default list;

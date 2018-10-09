@@ -34,4 +34,6 @@ export default [
     {id: 33, name: 'lampardhei', head: 'images/lampardhei.jpeg'},
     {id: 34, name: '同乐相声', head: 'images/tonglexiangsheng.jpeg'},
     {id: 35, name: '哲理', head: 'images/zheli.jpeg'},
+    {id: 36, name: 'Young不等式', head: 'images/youngbudengshi.jpeg'},
+    {id: 37, name: 'Eihwaz', head: 'images/eihwaz.jpeg'},
 ];

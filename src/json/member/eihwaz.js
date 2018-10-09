@@ -1,6 +1,6 @@
 export default {
-    id: 28,
-    name: '越来越强',
+    id: 37,
+    name: 'Eihwaz',
     scoreList: [
         {match: '20180930 尤文3:0年轻人', score: 1},
     ]
