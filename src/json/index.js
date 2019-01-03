@@ -35,6 +35,7 @@ import tonglexiangsheng from './member/tonglexiangsheng.js';
 import zheli from './member/zheli.js';
 import youngbudengshi from './member/youngbudengshi.js';
 import eihwaz from './member/eihwaz.js';
+import dododorisxuan from './member/dododorisxuan.js';
 
 var list = {
     1: dawang,
@@ -74,6 +75,7 @@ var list = {
     35: zheli,
     36: youngbudengshi,
     37: eihwaz,
+    38: dododorisxuan,
 };
 
 export default list;
