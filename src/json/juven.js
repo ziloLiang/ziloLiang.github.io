@@ -37,4 +37,5 @@ export default [
     {id: 36, name: 'Young不等式', head: 'images/youngbudengshi.jpeg'},
     {id: 37, name: 'Eihwaz', head: 'images/eihwaz.jpeg'},
     {id: 38, name: 'dododoris璇', head: 'images/dododorisxuan.jpeg'},
+    {id: 39, name: '蜕变', head: 'images/tuibian.jpeg'},
 ];

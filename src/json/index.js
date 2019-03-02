@@ -36,6 +36,7 @@ import zheli from './member/zheli.js';
 import youngbudengshi from './member/youngbudengshi.js';
 import eihwaz from './member/eihwaz.js';
 import dododorisxuan from './member/dododorisxuan.js';
+import tuibian from './member/tuibian.js';
 
 var list = {
     1: dawang,
@@ -76,6 +77,7 @@ var list = {
     36: youngbudengshi,
     37: eihwaz,
     38: dododorisxuan,
+    39: tuibian
 };
 
 export default list;
