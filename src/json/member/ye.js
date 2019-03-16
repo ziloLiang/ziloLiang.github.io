@@ -6,5 +6,6 @@ export default {
         {match: '20181223 尤文1:0罗马', score: 1},
         {match: '20181223 尤文2:1桑普', score: 1},
         {match: '20190117 尤文1:0AC米兰', score: 1},
+        {match: '20190313 尤文3:0马竞', score: 1},
     ]
 }

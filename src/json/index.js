@@ -37,6 +37,8 @@ import youngbudengshi from './member/youngbudengshi.js';
 import eihwaz from './member/eihwaz.js';
 import dododorisxuan from './member/dododorisxuan.js';
 import tuibian from './member/tuibian.js';
+import amu from './member/amu.js';
+import ycwpiero from './member/ycwpiero.js';
 
 var list = {
     1: dawang,
@@ -77,7 +79,9 @@ var list = {
     36: youngbudengshi,
     37: eihwaz,
     38: dododorisxuan,
-    39: tuibian
+    39: tuibian,
+    40: amu,
+    41: ycwpiero,
 };
 
 export default list;
