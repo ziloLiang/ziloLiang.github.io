@@ -39,6 +39,7 @@ import dododorisxuan from './member/dododorisxuan.js';
 import tuibian from './member/tuibian.js';
 import amu from './member/amu.js';
 import ycwpiero from './member/ycwpiero.js';
+import xiaomo from './member/xiaomo.js';
 
 var list = {
     1: dawang,
@@ -82,6 +83,7 @@ var list = {
     39: tuibian,
     40: amu,
     41: ycwpiero,
+    42: xiaomo,
 };
 
 export default list;

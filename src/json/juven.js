@@ -40,4 +40,5 @@ export default [
     {id: 39, name: '蜕变', head: 'images/tuibian.jpeg'},
     {id: 40, name: '阿木', head: 'images/amu.jpeg'},
     {id: 41, name: 'ycwpiero', head: 'images/ycwpiero.jpeg'},
+    {id: 42, name: 'xiaomo', head: 'images/xiaomo.jpeg'},
 ];
