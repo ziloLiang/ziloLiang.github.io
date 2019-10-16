@@ -41,4 +41,5 @@ export default [
     {id: 40, name: '阿木', head: 'images/amu.jpeg'},
     {id: 41, name: 'ycwpiero', head: 'images/ycwpiero.jpeg'},
     {id: 42, name: 'xiaomo', head: 'images/xiaomo.jpeg'},
+    {id: 43, name: '绝顶尤文', head: 'images/juedingyouwen.jpeg'},
 ];

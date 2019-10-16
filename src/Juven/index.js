@@ -37,7 +37,7 @@ export default class Juven extends React.Component {
         return (
             <div className="juven">
                 <div className="juven-header" >
-                    JUVENTUS 18/19赛季
+                    JUVENTUS 19/20赛季
                 </div>
                 <div className="table-tr table-head clearfix">
                     <div className="main-wrap">
