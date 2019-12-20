@@ -42,4 +42,5 @@ export default [
     {id: 41, name: 'ycwpiero', head: 'images/ycwpiero.jpeg'},
     {id: 42, name: 'xiaomo', head: 'images/xiaomo.jpeg'},
     {id: 43, name: '绝顶尤文', head: 'images/juedingyouwen.jpeg'},
+    {id: 44, name: 'X', head: 'images/X.jpeg'},
 ];

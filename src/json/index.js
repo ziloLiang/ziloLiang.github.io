@@ -41,6 +41,7 @@ import amu from './member/amu.js';
 import ycwpiero from './member/ycwpiero.js';
 import xiaomo from './member/xiaomo.js';
 import juedingyouwen from './member/juedingyouwen.js';
+import X from './member/X.js';
 
 var list = {
     1: dawang,
@@ -85,7 +86,8 @@ var list = {
     40: amu,
     41: ycwpiero,
     42: xiaomo,
-    43: juedingyouwen
+    43: juedingyouwen,
+    44: X
 };
-
+// 更新到2019年12月19
 export default list;
