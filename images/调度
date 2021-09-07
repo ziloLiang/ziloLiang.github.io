@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-09-07T07:08:00.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="14.9.7" etag="C9b-KPgWWyFtuFplXdMz" type="github"><diagram id="DjlS5WomD9NbN-DZb5KT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-07T07:23:36.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZAwH6MKE1Zkl-CJW2urR" version="14.9.7" type="github">
+  <diagram id="DjlS5WomD9NbN-DZb5KT" name="Page-1">
+    <mxGraphModel dx="946" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XXex_5jsQrDfyKle0hZl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-1" target="XXex_5jsQrDfyKle0hZl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-1" value="当前数据是否为当前sheet页需要展示的数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-2" value="宏观异步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-3" target="XXex_5jsQrDfyKle0hZl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-3" value="当前数据是否正在拉取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-4" target="XXex_5jsQrDfyKle0hZl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-4" value="数据是否已经拉取完全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-5" target="XXex_5jsQrDfyKle0hZl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-5" value="导出数据时是否每个sheet页已经渲染完成了" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-6" target="XXex_5jsQrDfyKle0hZl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-6" target="XXex_5jsQrDfyKle0hZl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-6" target="XXex_5jsQrDfyKle0hZl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.027;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-6" target="XXex_5jsQrDfyKle0hZl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-6" value="调度器&lt;br&gt;&lt;br&gt;每当dataSource Set的时候&lt;br&gt;&lt;br&gt;都会触发反射里的判断逻辑&lt;br&gt;&lt;br&gt;同时对数据进行处理&lt;br&gt;&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;spacingTop=15;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-8" value="defineProperty - reaction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="110" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-13" value="显示loading?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="150" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-14" value="暂未用到的数据进行缓存待用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="XXex_5jsQrDfyKle0hZl-15" target="XXex_5jsQrDfyKle0hZl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-15" value="重新渲染当前sheet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-16" value="导出时为渲染的sheet页在后台进行循环渲染，等都渲染完成再调用前端下载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-21" value="参考react setState 和spreadjs 提供的暂停和重启渲染的api 进行单个sheet页的异步渲染" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="840" y="310" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-23" value="在页面上的效果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="617.5" y="110" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XXex_5jsQrDfyKle0hZl-24" value="微观异步优化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="827" y="110" width="162.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
